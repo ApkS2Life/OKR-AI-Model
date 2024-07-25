@@ -1,3 +1,5 @@
-transformers
-torch
-flask
+spacy==3.5.0
+transformers==4.30.0
+torch==1.13.1
+requests==2.28.2
+flask==2.3.0
